@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Social Graphs and Interactions 2021</title>
-    <link>http://website_test.github.io/tags/</link>
+    <link>https://annasapienza.github.io/website_test.github.io/tags/</link>
     <description>Recent content in Tags on Social Graphs and Interactions 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://website_test.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://annasapienza.github.io/website_test.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

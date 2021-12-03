@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Graphs and Interactions 2021</title>
-    <link>http://website_test.github.io/</link>
+    <link>https://annasapienza.github.io/website_test.github.io/</link>
     <description>Recent content on Social Graphs and Interactions 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 12:35:39 +0100</lastBuildDate><atom:link href="http://website_test.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 12:35:39 +0100</lastBuildDate><atom:link href="https://annasapienza.github.io/website_test.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>http://website_test.github.io/posts/mypost/</link>
+      <link>https://annasapienza.github.io/website_test.github.io/posts/mypost/</link>
       <pubDate>Fri, 03 Dec 2021 12:35:39 +0100</pubDate>
       
-      <guid>http://website_test.github.io/posts/mypost/</guid>
+      <guid>https://annasapienza.github.io/website_test.github.io/posts/mypost/</guid>
       <description>This is some content</description>
     </item>
     
